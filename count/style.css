@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: rgb(254, 254, 254);
+    text-decoration: underline;
+}
+.zone
+{
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    justify-content:baseline;
+    align-items: center;
+    left: 29%;
+    background-color: white;
+    width: 50rem;
+    height: 36rem;
+    font-size: 20px;
+}
+#text{
+    font-size: 27px;
+}
+#image{
+    width: 400px;
+    height: 300px;
+    border-radius:200px;
+}#saida{
+    color: red;
+}
